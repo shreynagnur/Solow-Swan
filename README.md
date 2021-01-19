@@ -1,10 +1,10 @@
 # Solow-Swan Projection #
 
 # Executive Summary #
-Use the Solow-Swan economic growth model to forecast the state of the U.S. economy given parameters like savings rate, depreciation, population growth, and labor efficiency growth. 
-Take a look at default values provided that reflect the current U.S. economy or adjust the parameters to create your own forecast! 
-Golden rule savings rate optimization option included.
-Java Swing GUI included.
+- Use the Solow-Swan economic growth model to forecast the state of the U.S. economy given parameters like savings rate, depreciation, population growth, and labor efficiency growth. 
+- Take a look at default values provided that reflect the current U.S. economy or adjust the parameters to create your own forecast! 
+- Golden rule savings rate optimization option included.
+- Java Swing GUI included.
 
 # Requirements #
 Java Swing (javax.swing)
