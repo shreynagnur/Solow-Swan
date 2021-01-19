@@ -14,6 +14,7 @@ Java Swing (javax.swing)
 2. Navigate to src file locally
 3. Compile: javac \*.java
 4. Run: java MainFrame
+
 Tested on Java 1.8 (1.8.0_231), Java 11 (11.0.1), Java 13 (13.0.1).
 
 # What is Solow-Swan? #
